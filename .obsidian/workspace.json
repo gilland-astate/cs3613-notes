@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b037142c0087e1ce",
+        "id": "bcc75be66161d22b",
         "type": "tabs",
         "children": [
           {
-            "id": "044a98acc54fab86",
+            "id": "039a447bda629028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assignments/03. Add Style and Frontend Components.md",
+                "file": "Tutorials/Adding Docker to Your Project (Part 1).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Add Style and Frontend Components"
+              "title": "Adding Docker to Your Project (Part 1)"
             }
           }
         ]
@@ -165,16 +165,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "044a98acc54fab86",
+  "active": "039a447bda629028",
   "lastOpenFiles": [
     "Tutorials/Create and Launch Our First Django App.md",
+    "Tutorials/Adding Docker to Your Project (Part 1).md",
+    "Docker.md",
+    "Notes/Docker - Container Development.md",
+    "Notes/Cloud Computing - Transforming Modern Technology.md",
+    "Tutorials/Google Cloud Firewall Configuration.md",
+    "Assignments/04. `autos` App.md",
+    "Assignments/03. Add Style and Frontend Components.md",
     "Assignments/01. Student's First Django App.md",
     "Assignments/02. Django Tutorial.md",
     "Tutorials/Install Python Dependencies.md",
-    "Tutorials/Google Cloud Firewall Configuration.md",
     "Notes/Firewalls - A Vital Security Layer in Cloud Computing.md",
     "Notes/Ubuntu Server Management - Essential Tools and Tasks.md",
-    "Notes/Cloud Computing - Transforming Modern Technology.md",
     "Tutorials/Install VS Code Server with Tunnel.md",
     "http;/obsidian.md",
     "README.md",
